@@ -1,0 +1,113 @@
+body{
+    font-family: 'Gasoek One', sans-serif;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 80px;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+.nav-link{
+    color: rgb(255, 255, 255);
+}
+
+.navbar{
+    font-family: 'Space Grotesk', sans-serif;
+
+}
+
+.navbar-brand {
+    padding-left: 50px;
+}
+
+.d-flex{
+    padding-right: 50px;
+}
+
+.row{
+    padding: 80px;
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.japan{
+
+padding-bottom: 200px;
+font-family: 'Space Grotesk', sans-serif;
+
+}
+
+.info{
+    background-color: #1B1616;
+    padding: 60px;
+}
+
+.sushi {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.list-group {
+    background-color: #1b1616ce;
+    padding: 100px;
+    display: flex;
+
+}
+
+.list-group-item {
+    background-color: transparent;
+    color: azure;
+    font-family: 'Space Grotesk', sans-serif;
+    padding: 40px;
+    padding-bottom: 60px;
+}
+
+.btn-primary {
+    padding: 10px;
+    background-color: #EC4B7B;
+    border-color: transparent;
+
+
+}
+
+.d-inline-block {
+    padding-left: 50px;
+}
+
+.tarjetas-1{
+    padding-top: 30px;
+    padding-bottom: 90px;
+}
+
+.animate__animated.animate__backInUp {
+    --animate-duration: 3s;
+}
+
+
+.animate__animated.animate__fadeInUpBig {
+    --animate-duration: 1s;
+}
+
+.row-cols-1 {
+
+    font-family: 'Space Grotesk', sans-serif; 
+
+}
+
+.px-4{
+    padding: 0px;
+}
+
